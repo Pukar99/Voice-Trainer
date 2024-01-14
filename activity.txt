@@ -1,0 +1,1 @@
+i have planned to create a voice model that we can train with the voice of that model 
