@@ -1,1 +1,1 @@
-i have planned to create a voice model that we can train with the voice of that model 
+i have planned to create a voice model that we can train with the voice of that model. but not able ot do it today but data and requirements are gathering now 
